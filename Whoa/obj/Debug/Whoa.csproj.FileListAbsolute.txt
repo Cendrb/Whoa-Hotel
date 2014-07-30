@@ -1,1 +1,7 @@
 c:\users\cendrb\documents\visual studio 2013\Projects\Whoa Hotel\Whoa\bin\Debug\Whoa.exe.config
+C:\Users\Cendrb\Documents\Visual Studio 2013\Projects\Whoa-Hotel\Whoa\bin\Debug\Whoa.exe.config
+C:\Users\Cendrb\Documents\Visual Studio 2013\Projects\Whoa-Hotel\Whoa\obj\Debug\Whoa.csprojResolveAssemblyReference.cache
+C:\Users\Cendrb\Documents\Visual Studio 2013\Projects\Whoa-Hotel\Whoa\bin\Debug\Whoa.exe
+C:\Users\Cendrb\Documents\Visual Studio 2013\Projects\Whoa-Hotel\Whoa\bin\Debug\Whoa.pdb
+C:\Users\Cendrb\Documents\Visual Studio 2013\Projects\Whoa-Hotel\Whoa\obj\Debug\Whoa.exe
+C:\Users\Cendrb\Documents\Visual Studio 2013\Projects\Whoa-Hotel\Whoa\obj\Debug\Whoa.pdb

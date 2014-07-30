@@ -52,7 +52,10 @@ namespace Whoa
         private void updateFinalBeds()
         {
             FinalBeds.Clear();
-            
+            for (int remainingBeds = BedCount; remainingBeds > 0; remainingBeds--)
+            {
+                FinalBeds.Add(MainBed);
+            }
         }
     }
 }
